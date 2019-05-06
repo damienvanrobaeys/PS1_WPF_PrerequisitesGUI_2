@@ -1,5 +1,5 @@
 # Prerequisite GUI for your application 
-![alt text](https://github.com/damienvanrobaeys/PS1_WPF_PrerequisitesGUI_1/blob/master/Sources/preview.jpg)
+![alt text](https://github.com/damienvanrobaeys/PS1_WPF_PrerequisitesGUI_2/blob/master/Sources/GIF/KO.gif)
 
 **Create a prerequisite GUI for your application with PowerShell and WPF**
 
